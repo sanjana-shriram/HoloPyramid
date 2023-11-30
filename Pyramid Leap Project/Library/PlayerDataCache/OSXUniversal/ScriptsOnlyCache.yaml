@@ -66,7 +66,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 21622}
     - Class: 114
-      Script: {instanceID: 22980}
+      Script: {instanceID: 23226}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
@@ -1182,12 +1182,6 @@ ScriptsOnlyBuild:
     className: RuntimeGizmoManager
   - hash:
       serializedVersion: 2
-      Hash: 5f1d476f681bbf681fd7bc15ad9a875b
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: PyramidScript
-  - hash:
-      serializedVersion: 2
       Hash: 96d2ba24dd22942564954c9d5c36002f
     assemblyName: Ultraleap.Tracking.Core
     namespaceName: Leap.Unity
@@ -1234,7 +1228,13 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 9f0b8f9f3f4c84fdb06ba8f80793bd7b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PyramidScript
   platform: 2
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/joeymok/My project (2)/Build.app
+  playerPath: /Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Build.app

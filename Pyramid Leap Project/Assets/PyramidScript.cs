@@ -7,16 +7,16 @@ using UnityEngine.Rendering;
 
 public class PyramidScript : MonoBehaviour
 {
-    public Camera CameraLeft;
-    public Camera CameraRight;
-
+    public Camera FrontCamera;
+    public Camera LeftCamera;
+    public Camera RightCamera;
+    public Camera BackCamera;
     public Shader CustomShader;
 
+    private RenderTexture m_renderTextureFront;
     private RenderTexture m_renderTextureLeft;
     private RenderTexture m_renderTextureRight;
-
-    [Range(-1.0f, 1.0f)]
-    public float Strength = 0.0f;
+    private RenderTexture m_renderTextureBack;
 
     private Material m_material;
 
@@ -41,11 +41,15 @@ public class PyramidScript : MonoBehaviour
 
         m_material = new Material(CustomShader);
 
-        m_renderTextureLeft = CreateRenderTextureForCamera(CameraLeft);
-        m_renderTextureRight = CreateRenderTextureForCamera(CameraRight);
+        m_renderTextureLeft = CreateRenderTextureForCamera(LeftCamera);
+        m_renderTextureRight = CreateRenderTextureForCamera(RightCamera);
+        m_renderTextureFront = CreateRenderTextureForCamera(FrontCamera);
+        m_renderTextureBack = CreateRenderTextureForCamera(BackCamera);
 
-        m_material.SetTexture("_CameraLeftTex", m_renderTextureLeft);
-        m_material.SetTexture("_CameraRightTex", m_renderTextureRight);
+        m_material.SetTexture("_LeftCameraTex", m_renderTextureLeft);
+        m_material.SetTexture("_RightCameraTex", m_renderTextureRight);
+        m_material.SetTexture("_FrontCameraTex", m_renderTextureFront);
+        m_material.SetTexture("_BackCameraTex", m_renderTextureBack);
 
         // Please edit this value to the size of your screen!!!
         Screen.SetResolution(2560, 1600, true);
@@ -56,7 +60,7 @@ public class PyramidScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        m_material.SetFloat("_Strength", 1.0f + Strength);
+
     }
 
     private void OnRenderImage(RenderTexture source, RenderTexture destination)
@@ -65,4 +69,6 @@ public class PyramidScript : MonoBehaviour
 
         Graphics.Blit(source, destination, m_material);
     }
+
+
 }

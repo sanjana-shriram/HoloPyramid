@@ -292,10 +292,10 @@
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.10f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="ReportGeneratorMerged">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.10f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -679,94 +679,94 @@
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.10f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Ultraleap.Tracking.Core.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.Core.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Ultraleap.Tracking.Hands">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.Hands.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.Hands.dll</HintPath>
     </Reference>
     <Reference Include="Ultraleap.Tracking.InteractionEngine">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.InteractionEngine.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.InteractionEngine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Shared.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Ultraleap.Tracking.Hands.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.Hands.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.Hands.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="LeapMotion.LeapCSharp">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/LeapMotion.LeapCSharp.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/LeapMotion.LeapCSharp.dll</HintPath>
     </Reference>
     <Reference Include="Ultraleap.Tracking.InteractionEngine.Editor">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.InteractionEngine.Editor.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.InteractionEngine.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Ultraleap.Tracking.Core">
-        <HintPath>/Users/joeymok/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.Core.dll</HintPath>
+        <HintPath>/Users/joeymok/Desktop/18453/HoloPyramid/Pyramid Leap Project/Library/ScriptAssemblies/Ultraleap.Tracking.Core.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
