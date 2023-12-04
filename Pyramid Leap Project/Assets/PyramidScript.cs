@@ -52,7 +52,7 @@ public class PyramidScript : MonoBehaviour
         m_material.SetTexture("_BackCameraTex", m_renderTextureBack);
 
         // Please edit this value to the size of your screen!!!
-        Screen.SetResolution(2560, 1600, true);
+        Screen.SetResolution(1920, 1080, true);
 
         Debug.Log($"width={Camera.main.pixelWidth} x height={Camera.main.pixelHeight}");
     }
