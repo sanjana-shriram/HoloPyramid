@@ -93,16 +93,16 @@ Shader "Custom/PyramidShader"
                 if (uv.y < 0.407) {
                     if ((uv.x-diag_offset) > uv.y/ratio && (uv.x+diag_offset) < 1-(uv.y/ratio)) {
                         coord.x = 1-uv.x;
-                        coord.y = 1-uv.y;
-                        return tex2D(_FrontCameraTex, coord); 
+                        coord.y = uv.y;
+                        return tex2D(_BackCameraTex, coord); 
                     }
                     //y from 0 to 0.407
                     
                 } else if (uv.y >= 0.593) {
                     if ((uv.x-diag_offset) > (1-uv.y)/ratio && (uv.x+diag_offset) < 1-(1-uv.y)/ratio) {
                         coord.x = 1-uv.x;
-                        coord.y = 1-uv.y;
-                        return tex2D(_BackCameraTex, coord); 
+                        coord.y = uv.y;
+                        return tex2D(_FrontCameraTex, coord); 
                     }
 
                 }
@@ -110,15 +110,15 @@ Shader "Custom/PyramidShader"
                 if (uv.x < 0.446) {
 
                     //0 to 0.446
-                    coord.x = uv.x + 0.554;
-                    coord.y = uv.y;
+                    coord.x = uv.x; //+ 0.554;
+                    coord.y = 1-uv.y;
                     return tex2D(_LeftCameraTex, coord); 
                 }
                 else if (uv.x >= 0.554) {
                     //0.554 to 1
                     //0 to 0.446
-                    coord.x = uv.x - 0.554;
-                    coord.y = uv.y;
+                    coord.x = uv.x;// - 0.554;
+                    coord.y = 1-uv.y;
                     return tex2D(_RightCameraTex, coord); 
                 }
                 
